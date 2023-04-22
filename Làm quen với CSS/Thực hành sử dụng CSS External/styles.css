@@ -1,0 +1,11 @@
+/* Thêm màu red và font-size: 24px; cho thẻ có id="heading"
+Thêm màu green cho các thẻ có class="paragraph". */
+
+#heading {
+  color: red;
+  font-size: 24px;
+}
+
+.paragraph {
+  color: green;
+}
